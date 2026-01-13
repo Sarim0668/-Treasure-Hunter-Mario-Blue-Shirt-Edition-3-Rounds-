@@ -8,6 +8,7 @@ W → Jump (hold for higher)
 SPACE → Shoot (when BIG!)
 P → Pause
 X → Exit
+
 Objective: Complete 3 scenes per level (9 total scenes) by reaching the right side. Collect coins, avoid pits, stomp enemies!
 
 HUD Features:
