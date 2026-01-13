@@ -1,0 +1,2 @@
+# -Treasure-Hunter-Mario-Blue-Shirt-Edition-3-Rounds-
+A complete x86 assembly console platformer featuring 3 levels × 3 scenes each with classic Mario mechanics! Control blue-shirt Mario as he collects coins, stomps enemies, uses power-ups, and battles bosses. Fully playable with high scores, timers, and smooth physics.  Made with pure x86 assembly + Irvine32 library – 8,000+ lines of optimized code!
